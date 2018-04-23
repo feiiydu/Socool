@@ -1,0 +1,10 @@
+C:\Users\feiii\source\repos\Socool\Socool\bin\Debug\Socool.exe.config
+C:\Users\feiii\source\repos\Socool\Socool\bin\Debug\Socool.exe
+C:\Users\feiii\source\repos\Socool\Socool\bin\Debug\Socool.pdb
+C:\Users\feiii\source\repos\Socool\Socool\obj\Debug\Socool.csprojResolveAssemblyReference.cache
+C:\Users\feiii\source\repos\Socool\Socool\obj\Debug\Socool.Form1.resources
+C:\Users\feiii\source\repos\Socool\Socool\obj\Debug\Socool.Properties.Resources.resources
+C:\Users\feiii\source\repos\Socool\Socool\obj\Debug\Socool.csproj.GenerateResource.cache
+C:\Users\feiii\source\repos\Socool\Socool\obj\Debug\Socool.csproj.CoreCompileInputs.cache
+C:\Users\feiii\source\repos\Socool\Socool\obj\Debug\Socool.exe
+C:\Users\feiii\source\repos\Socool\Socool\obj\Debug\Socool.pdb
